@@ -13,7 +13,4 @@ end
    "My favorite song is __" 
 end
   
-  
-  
-  
 end
